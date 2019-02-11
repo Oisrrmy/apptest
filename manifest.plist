@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <key>metadata</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <key>url</key>
+                        <string>software-package</string>
+                        <string>https://lichang.oss-cn-shanghai.aliyuncs.com/app/ios/1.1.1.256/halowallet.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <key>url</key>
+                        <string>display-image</string>
+                        <string>https://lichang.oss-cn-shanghai.aliyuncs.com/app/ios/1.1.1.256/57.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <key>url</key>
+                        <string>full-size-image</string>
+                        <string>https://lichang.oss-cn-shanghai.aliyuncs.com/app/ios/1.1.1.256/512.png</string>
+                    </dict>
+                </array>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <key>bundle-version</key>
+                    <key>kind</key>
+                    <key>title</key>
+                    <string>com.mz.halowallet.io</string>
+                    <string>1.0.0</string>
+                    <string>software</string>
+                    <string>HaloWallet</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
